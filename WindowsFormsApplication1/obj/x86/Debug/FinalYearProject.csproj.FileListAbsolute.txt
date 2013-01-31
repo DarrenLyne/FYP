@@ -1,0 +1,8 @@
+C:\Users\Darren\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\FinalYearProject.Properties.Resources.resources
+C:\Users\Darren\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\FinalYearProject.csproj.GenerateResource.Cache
+C:\Users\Darren\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\FinalYearProject.exe
+C:\Users\Darren\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\FinalYearProject.pdb
+C:\Users\Darren\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\FinalYearProject.exe
+C:\Users\Darren\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\FinalYearProject.pdb
+C:\Users\Darren\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\FinalYearProject.Form1.resources
+C:\Users\Darren\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\FinalYearProject.csprojResolveAssemblyReference.cache
